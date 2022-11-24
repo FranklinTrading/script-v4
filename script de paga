@@ -24,7 +24,7 @@ Section:NewButton("teletrasportarte a alguien" , "teletrasporte", function()
 loadstring(game:HttpGet(("https://pastebin.com/raw/YNVbeqPy")))()end)
 
 
- Section:NewButton("inf yeld"  , "inf yeld script", function()
+ Section:NewButton("afk script"  , "duerme y sigue farmeando", function()
  wait(0.5)local ba=Instance.new("ScreenGui")
 local ca=Instance.new("TextLabel")local da=Instance.new("Frame")
 local _b=Instance.new("TextLabel")local ab=Instance.new("TextLabel")ba.Parent=game.CoreGui
